@@ -3,4 +3,6 @@ kihonntekina wprkflow
 hennkou
 hennkou
 <p>git merge
-コンフリクト
+<<<<<<< HEAD
+<p>git merge
+conflict
